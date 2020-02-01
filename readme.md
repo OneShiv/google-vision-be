@@ -1,0 +1,2 @@
+-> Google vision api is used to create backend
+-> Need to add database and caching using redis.
