@@ -5,5 +5,8 @@ To make project work
 
 1) Clone the project
 2) Move insider project directory
-3) run 
+run 
+export GOOGLE_APPLICATION_CREDENTIALS="[PATH to credentials.json]"
+
+then run 
 node index.js
